@@ -1,4 +1,7 @@
----
-title: Welcome to my blog
----
+# Matt Turpin's personal site
+I'm creating a site here to share updates and link to info about me and my various projects.
+
+
+
+
 
