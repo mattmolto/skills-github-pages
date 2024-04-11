@@ -8,7 +8,7 @@ You can find some recent music I made with friends available on [Bandcamp](https
 
 **Contact**
 
-Email       [info@mturp.in](info@mturp.in)
+Email       [info@mturp.in](mailto:info@mturp.in)
 
 Github      [@mattmolto](https://github.com/mattmolto)
 
