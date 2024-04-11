@@ -1,4 +1,4 @@
-
+![plant in front of stone wall](IMG_0690_Edited.jpg)
 
 
 **About**
