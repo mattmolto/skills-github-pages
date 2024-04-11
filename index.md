@@ -1,5 +1,4 @@
-![plant in front of stone wall](skills-github-pages
-/IMG_0690_Edited.jpg)
+![plant in front of stone wall](IMG_0690_Edited.jpg)
 
 
 **About**
